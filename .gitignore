@@ -1,0 +1,6 @@
+#My Files
+config.py
+*.csv
+christmas_effect.ipynb
+/Data
+__pycache__
