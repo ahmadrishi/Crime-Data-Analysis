@@ -4,3 +4,4 @@ config.py
 christmas_effect.ipynb
 /Data
 __pycache__
+*.pbix
